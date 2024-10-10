@@ -6,7 +6,7 @@ import re
 app = Flask(__name__)
 
 # Configure Groq API
-client = Groq(api_key='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')
+client = Groq(api_key='add_your_api_key')
 
 conversation_state = {}
 pizza_options = ["Margherita", "Pepperoni", "Veggie", "Paneer"]
