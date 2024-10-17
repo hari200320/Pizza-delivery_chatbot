@@ -1,18 +1,18 @@
 # Pizza Delivery Chatbot
 
-## Description
+## Description : 
 A virtual assistant designed to help users with pizza orders, menu inquiries, and delivery options.
 
-## Features
+## Features : 
 - Answer common questions about pizza orders and menu items.
 - Provide details on delivery options and payment methods.
 
-## Technologies Used
+## Technologies Used : 
 - Flask
 - Groq API
 - Python
 
-## Setup Instructions
+## Setup Instructions : 
 1. Clone the repository:
    ```bash
    git clone https://github.com/hari200320/Pizza-delivery_chatbot.git
